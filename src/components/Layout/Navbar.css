@@ -1,0 +1,24 @@
+/* Update image references to use relative paths correctly */
+.Social-media .icons a .layer span.fab {
+  background-color: #52535500;
+  border: 2px solid hsl(19, 100%, 50%);
+  background-size: cover;
+  background-image: url("../assets/images/instaa.png");
+  box-shadow: 2px 2px 2px rgb(238, 103, 126);
+}
+
+.Social-media .icons a .layer span.linkedin {
+  background-color: #0c2ce4;
+  border: 2px solid hsl(160, 100%, 50%);
+  background-size: cover;
+  background-image: url("../assets/images/lin.png");
+  box-shadow: 2px 2px 2px #0bffde;
+}
+
+.Social-media .icons a .layer span.Github {
+  background-color: #484a53;
+  border: 2px solid rgb(255, 255, 255);
+  background-size: cover;
+  background-image: url("../assets/images/github.png");
+  box-shadow: 2px 2px 2px #ffffff;
+}
